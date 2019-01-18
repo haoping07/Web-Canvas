@@ -1,0 +1,60 @@
+<!DOCTYPE hmtl>
+<html>
+
+<head>
+    <title>Hao-Ping Lin's Painter</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+
+<body>
+    <div style="margin:0 auto; width:850px; height:780px;">
+        <div style="margin-left:29px;width: 800px; height:70px;">
+            <ul id="selector">
+                <li>
+                    <input type="button" onclick="paintShape(0)" style="background-image:url('pic/line.png'); width:72px; height:65px;">
+                </li>
+                <li>
+                    <input type="button" onclick="paintShape(1)" style="background-image:url('pic/circle.png'); width:72px; height:65px;">
+                </li>
+                <li>
+                    <input type="button" onclick="paintShape(2)" style="background-image:url('pic/rec.png'); width:72px; height:65px;">
+                </li>
+                <li>
+                    <input type="button" onclick="paintShape(3)" style="background-image:url('pic/triangle.png'); width:72px; height:65px;">
+                </li>
+                <li>
+                    <input type="button" onclick="addTxt()" style="background-image:url('pic/txt.png'); width:72px; height:65px;">
+                </li>
+                <li>
+                    <input type="color" id="myColor" value="#09d9ff" style="width:72px; height:68px;">
+                </li>
+                <li>
+                    <input type="button" onclick="brushSize()" style="background-image:url('pic/brushsize.png'); width:72px; height:65px;">
+                </li>
+                <li>
+                    <input type="button" onclick="eraserTool()" style="background-image:url('pic/eraser.png'); width:72px; height:65px;">
+                </li>
+                <li>
+                    <input type="button" onclick="clearMyCanvas()" style="background-image:url('pic/clear.png'); width:72px; height:65px;">
+                </li>
+                <li>
+                    <input type="button" onclick="imgSave()" style="background-image:url('pic/save.png'); width:72px; height:65px;">
+                </li>
+            </ul>
+        </div>
+        <canvas id="myCanvas" class="iconStyle1" onmousedown="mousedown(event)" onmousemove="mousemove(event)" onmouseup="mouseup(event)"
+            onmouseout="mouseout()" height="600" width="800" style="border:6px groove red;"></canvas>
+        <div style="width:815px; height:110px; margin-top:7px;">
+            <li>
+                <input type="button" onclick="Undo()" id="child1" style="background-image:url('pic/undo.png'); width:72px; height:65px; float:left;">
+            </li>
+            <li>
+                <input type="button" onclick="Redo()" style="background-image:url('pic/redo.png'); width:72px; height:65px; float:right;">
+            </li>
+        </div>
+    </div>
+    <script src="myjs.js"></script>
+</body>
+
+</html>

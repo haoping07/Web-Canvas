@@ -1,0 +1,46 @@
+body {
+    background-image: url("pic/bg.png");
+}
+
+#selector {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+#button {
+    padding: 5px;
+    font-size: 20px;
+}
+
+.iconStyle0 {
+    cursor: default;
+}
+
+.iconStyle1 {
+    cursor: crosshair;
+}
+
+.iconStyle2 {
+    cursor: alias;
+}
+
+.iconStyle3 {
+    cursor: cell;
+}
+
+.iconStyle4 {
+    cursor: move;
+}
+
+.iconStyle5 {
+    cursor: zoom-in;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}

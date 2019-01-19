@@ -2,13 +2,14 @@
 #### National Tsing Hua University
 #### CS 241002 Software Studio 2018 Spring Assignment 1
 
-<img src="preview.png" width="882px" height="781px" alt="preview"></img>
+<img src="preview.png" width="600px" height="531px" alt="preview"></img>
 
 ## Components
-<h3> Features </h3>
+
+ <h3> Features </h3>
 1. <b>Brush</b>
     <img src="pic/brushsize.png" width="68px" height="60px" alt="preview"></img>
-    * Color and brush width are adjustable.
+    * Color and brush size are adjustable.
     
 2. <b>Eraser</b>
     <img src="pic/eraser.png" width="68px" height="60px" alt="preview"></img>
@@ -17,7 +18,7 @@
 3. <b>TXT Input</b>
     <img src="pic/txt.png" width="68px" height="60px" alt="preview"></img>
     * User can add txt to the canvas
-    * Customized Options: italic，font(Arial, sans-serif, serif, Verdana), font size, font color, insert position
+    * Customized Options: italic，font (Arial, sans-serif, serif, Verdana), font size, font color, insert position
     
 4. <b>Mouse cursor</b>
     * Mouse cursor will change to the specific picture corresponding to the tools        selected for easy understanding what tools     user is using right now.

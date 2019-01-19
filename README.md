@@ -1,6 +1,7 @@
 # Web Canvas
 #### National Tsing Hua University
 #### CS 241002 Software Studio 2018 Spring Assignment 1
+A web painter that let you draw what you want.
 
 <img src="preview.png" width="600px" height="531px" alt="preview"></img>
 

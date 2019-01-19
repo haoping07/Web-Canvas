@@ -6,7 +6,7 @@
 
 ## Components
 
- <h3> Features </h3>
+<h3> Features </h3>
 1. <b>Brush</b>
     <img src="pic/brushsize.png" width="68px" height="60px" alt="preview"></img>
     * Color and brush size are adjustable.
@@ -26,7 +26,7 @@
 5. <b>Reset canvas</b>  <img src="pic/clear.png" width="68px" height="60px" alt="preview"></img>
     * Clear the entire canvas
 
- <h3>Advanced features</h3>
+<h3>Advanced features</h3>
 6. <b>Brush shape</b>
     <img src="pic/circle.png" width="68px" height="60px" alt="preview"></img>
     <img src="pic/rec.png" width="68px" height="60px" alt="preview"></img>

@@ -11,7 +11,7 @@ A web painter that let you draw what you want.
 1. <b>Brush</b>
     <img src="pic/brushsize.png" width="68px" height="60px" alt="preview"></img>
     * Color and brush size are adjustable.
-    
+
 2. <b>Eraser</b>
     <img src="pic/eraser.png" width="68px" height="60px" alt="preview"></img>
     * Clear the selected path in canvas

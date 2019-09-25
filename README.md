@@ -45,4 +45,4 @@ A web painter that let you draw what you want.
 
 ## Student ID , Name and Template URL
 -  Name : Hao-Ping Lin
--  URL : https://pinglin07.github.io/Web-Canvas/
+-  URL : https://haoping07.github.io/Web-Canvas/

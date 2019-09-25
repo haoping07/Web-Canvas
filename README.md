@@ -8,6 +8,7 @@ A web painter that let you draw what you want.
 ## Components
 
 <h3> Features </h3>
+
 1. <b>Brush</b>
     <img src="pic/brushsize.png" width="68px" height="60px" alt="preview"></img>
     * Color and brush size are adjustable.
@@ -28,6 +29,7 @@ A web painter that let you draw what you want.
     * Clear the entire canvas
 
 <h3>Advanced features</h3>
+
 6. <b>Brush shape</b>
     <img src="pic/circle.png" width="68px" height="60px" alt="preview"></img>
     <img src="pic/rec.png" width="68px" height="60px" alt="preview"></img>

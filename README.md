@@ -1,5 +1,5 @@
 ## Web Canvas (National Tsing Hua University CS241002 2018S Assignment 1)
-A web painter that let you draw what you want.
+A web painter written in JavaScript with canvas
 
 <img src="preview.png" width="500px" height="441px" alt="preview"></img>
 

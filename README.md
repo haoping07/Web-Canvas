@@ -1,9 +1,9 @@
 ## Web Canvas (National Tsing Hua University CS241002 2018S Assignment 1)
 A web painter that let you draw what you want.
 
-<img src="preview.png" width="600px" height="531px" alt="preview"></img>
+<img src="preview.png" width="500px" height="441px" alt="preview"></img>
 
-### Features
+### Basic Features:
 
 1. <b>Brush</b>
     <img src="pic/brushsize.png" width="34px" height="30px" alt="preview"></img>
@@ -24,7 +24,7 @@ A web painter that let you draw what you want.
 5. <b>Reset canvas</b>  <img src="pic/clear.png" width="34px" height="30px" alt="preview"></img>
     * Clear the entire canvas
 
-### Advanced Features
+### Advanced Features:
 
 6. <b>Brush shape</b>
     <img src="pic/circle.png" width="34px" height="30px" alt="preview"></img>

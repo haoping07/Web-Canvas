@@ -41,6 +41,6 @@ A web painter that let you draw what you want.
     <img src="pic/save.png" width="34px" height="30px" alt="preview"></img>
     * User can download the current canvas as a JPG file
 
-## Student ID , Name and Template URL
+### Student ID , Name and Template URL
 -  Name : Hao-Ping Lin
 -  URL : https://haoping07.github.io/Web-Canvas/
